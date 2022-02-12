@@ -1,0 +1,43 @@
+[
+    {
+        "Header":"This resume was generated entirely in Python",
+        "name": "Porsha Crystal",
+        "place": "Redshore City",
+        "phone_number": "+(63) 906 285 5648",
+        "email": "Porsha.sing2@outlook.com",
+        "ali": "Skills: ",
+        "Skills": [
+            {
+                "s1": " - Skilled Computer engineer",
+                "s2": " - Experienced at Web application and development",
+                "s3": " - Proficient with Microsoft Office",
+                "s4": " - Adept in troubleshooting ",
+                "s5": " - Proficient in HTML Coding"
+            }
+        ],
+        "pixelrei": "Experiences: ",
+        "exp": [
+            {
+                "top": "Computer Engineer",
+                "company": "Redshore tech",
+                "dates": "December 2016- March 2020",
+                "ronan": "     - Supervised and lead a team of 5 junior software engineers during development of a robust upgrade version of company's software applications.",
+                "John": "     - Enhanced the application's features to effectively fix the bugs and optimize the overall performance.",
+                "Alixes": "     - Utilized Cloud Foundry for efficient building on top of Kubernetes.",
+                "Lopres": "     - Efficiently deployed and integrated software engineered by team.",
+                "next": "Cyrstal Inc.",
+                "next1": "January 2010 - August 2013",
+                "next2": "    - Completed maintenance on existing programs",
+                "next3": "    - Project management, trained new members and technicians"
+            }
+        ],
+        "educ": "Educational Attainment: ",
+        "school": [
+            {
+                "T": "Tertiary: ",
+                "U": "ABC university",
+                "Sy": "2009-2015"
+            }
+        ]
+    }
+]
